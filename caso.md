@@ -59,3 +59,10 @@ A largo plazo, si bien la moderación con IA generará entornos más seguros que
 ## 5. Rol de desarrolladores y responsables de políticas públicas
 *¿Qué papel creen que deben desempeñar los desarrolladores y responsables de políticas públicas en este contexto?*
 
+En la moderación automatizada de redes sociales, el problema base es permitir que los sistemas de automatización interpreten de cierta manera el lenguaje humano teniendo en cuenta sarcasmo, jergas y contexto político. Debido a esto, los desarrolladores tienen esa responsabilidad de dejar a un lado la burbuja técnica y romper con la asimetría cultural de los algoritmos, los cuales son entrenados en sectores específicos como Estados Unidos y China e inevitablemente dejan a un lado regiones como latinoamérica, confundiendo la libre expresión ciudadana con discursos de odio. 
+
+En este caso, su papel no debería limitarse a optimizar la precisión estadística sino más bien a construir sistemas que le indiquen al usuario cual es la verdadera causa de la hipotética sanción para así saber correctamente a que debe apelar y de que se le está acusando. Además, a la hora de regular las redes sociales, los ingenieros tienen la tarea de establecer ciertos niveles de incertidumbre para que ante expresiones controversiales como la sátira o la protesta social, el algoritmo no censure a ciegas, sino que escale el caso a moderadores humanos que realmente entiendan el contexto local. 
+
+Por su parte, los responsables de crear y definir políticas públicas deben tener presente que es importante regular el proceso y la transparencia. En esta situación el verdadero peligro es que el estado controle el contenido e imponga multas a su acomodo. En su lugar, la ley debe exigir un debido proceso digital que garantice al usuario el derecho a una apelación real revisada por personas y no por otro bot. De igual manera, las políticas públicas deben impedir que las grandes tecnológicas se escuden en ocultar información ante los usuarios, obligándoles a permitir auditorias algorítmicas para así lograr verificar que sus filtros no silencien desproporcionadamente a ciertos grupos o minorías. 
+
+
