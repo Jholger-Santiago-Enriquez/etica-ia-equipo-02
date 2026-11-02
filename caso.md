@@ -19,8 +19,13 @@
 ---
 
 ## 2. Principios éticos comprometidos
+Cuando una red social confía su moderación a la inteligencia artificial, no solo está automatizando una tarea, en realidad, está trasladando a una máquina el deber de las empresas de proteger a sus usuarios. Es en este punto donde se compromete primero la responsabilidad. La IA opera con criterios formalizados, no con juicio moral, y las cuestiones normativas siguen siendo materia de desacuerdo razonable entre personas, algo que ningún cálculo resuelve. 
 
-*¿Qué principios éticos (como privacidad, equidad, responsabilidad, transparencia) están comprometidos en este caso?*
+Lo que la máquina "considera" ético depende de los datos con que se la entrena, y esos datos arrastran los sesgos de quien los seleccionó. Un modelo alimentado con corpus de una época en que el machismo era corriente podría tratar como normales, e incluso como positivas, las opiniones hostiles hacia las mujeres, en lugar de advertirlas o retirarlas. Se compromete así la equidad: el sistema reproduce una desigualdad que se le encargó combatir. Además, quien diseña y despliega estos sistemas conoce mejor que nadie sus límites, y por eso no puede escudarse en la autonomía de lo que construyó. Una empresa responde por lo que su herramienta hace, aunque lo haga sola.
+
+Para moderar, la IA necesita alimentarse de cantidades enormes de contenido, y ahí entra la privacidad. Las redes sociales son hoy parte del entorno “informacional” donde muchas personas pasan gran parte de su día, y lo que ocurre en él es información que la plataforma convierte en materia prima. Cualquier publicación, pública o privada, puede terminar sirviendo a fines distintos de los que el usuario imaginó. Que la propia empresa decida qué datos usa no despeja la duda, porque el usuario es a la vez quien usa la plataforma y quien es usado por ella, y esa asimetría abre la puerta al abuso. La privacidad deja de ser un asunto de lo oculto y pasa a ser un asunto de control sobre la propia información, es decir, sobre una parte de la identidad.
+
+Esto lleva al último principio comprometido, la transparencia. No existe un sistema claro que permita saber cómo compañías como Meta (Instagram y Facebook) o ByteDance (TikTok) emplean los videos, las publicaciones y hasta las interacciones más pequeñas para entrenar sus modelos y construir el algoritmo particular de cada usuario. Y ese algoritmo no se limita a describir lo que alguien hace: configura el entorno que le llega y orienta lo que ve, piensa y comparte. Sin transparencia no hay manera de pedir cuentas, y sin cuentas la responsabilidad queda en una promesa de la empresa.
 
 ---
 ## 3. Propuesta de soluciones o mejoras
