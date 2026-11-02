@@ -25,6 +25,7 @@
 ---
 ## 3. Propuesta de soluciones o mejoras
 *¿Qué soluciones o mejoras sugerirían para abordar estos problemas éticos?*
+**Supervision humana y modelos con contexto:** La IA deberia actuar unicamente cuando tenga un nivel de certeza razonable, y que en los casos ambiguos donde no tengan mucho conocimiento, sea monitoreada la respuesta por un humano.
 
 ---
 
