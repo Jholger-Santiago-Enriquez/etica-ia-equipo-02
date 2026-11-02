@@ -51,6 +51,9 @@ Esto lleva al último principio comprometido, la transparencia. No existe un sis
 ## 4. Impacto a largo plazo
 *¿Qué impacto a largo plazo creen que este uso de IA podría tener en la sociedad o en el sector involucrado?*
 
+A largo plazo, si bien la moderación con IA generará entornos más seguros que benefician al público general, también puede traer consigo censuras por falta de contexto o errores algoritmicos. Inicialmente, ayudará en la sociedad para crear espacios digitales más seguros, a través de la detección de estafas, acoso, odio y contenidos no aptos para todo público, en momentos cuando las publicaciones aún no se han vuelto virales. Como consecuencia del eficaz trabajo de la IA para filtrar contenidos, los trabajadores digitales en vez de cargar con la obligación de revisar contenido obsceno diariamente, solamente deberán revisar apelaciones o contenido dudoso, lo que genera un menor desgaste psicológico. Sin embargo, también existen implicaciones. En medio de la filtración de contenidos, la IA puede tener dificultades para la distinción de contenidos perjudiciales, censurando sarcasmos, humor local o contextos culturales, generando errores con publicaciones que no necesariamente van en contra de las normas generales de la plataforma. Por consiguiente, los usuarios pueden adaptar su lenguaje en redes, con el uso de símbolos por ejemplo, para evadir filtros automáticos, creando nuevos estilos de comunicación virtual. Finalmente, el entrenamiento de modelos avanzados de IA requiere altos costos para estas necesidades específicas, por lo que grandes plataformas pueden verse muy beneficiadas en el mercado con respecto a nuevas redes sociales que recién están empezando, y no pueden cubrir los gastos mencionados.
+
+
 ---
 
 ## 5. Rol de desarrolladores y responsables de políticas públicas
