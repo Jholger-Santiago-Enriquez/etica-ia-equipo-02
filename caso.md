@@ -29,9 +29,23 @@ Esto lleva al último principio comprometido, la transparencia. No existe un sis
 
 ---
 ## 3. Propuesta de soluciones o mejoras
-*¿Qué soluciones o mejoras sugerirían para abordar estos problemas éticos?*
-**Supervision humana y modelos con contexto:** La IA deberia actuar unicamente cuando tenga un nivel de certeza razonable, y que en los casos ambiguos donde no tengan mucho conocimiento, sea monitoreada la respuesta por un humano.
 
+*¿Qué soluciones o mejoras sugerirían para abordar estos problemas éticos?*
+
+### *Soluciones a los problemas eticos*
+
+**Supervision humana y modelos con contexto:** La IA deberia actuar unicamente cuando tenga un nivel de certeza razonable, y que en los casos ambiguos donde no tengan mucho conocimiento, sea monitoreada la respuesta por un humano. Ademas, los modelos deberian entrenarse con diferentes idiomas para evitar eliminaciones de cuentas o publicaciones de manera injusta por un error de traduccion o conocimiento sobre las expresiones del idioma.
+
+**Datos representativos y auditorías independientes**: Los conjuntos de datos deben incluir a distintas poblaciones, culturas e idiomas, y debe medirse periódicamente, con auditores externos, si la tasa de error es mayor para ciertos grupos.
+
+**Explicar cada decision y publicar metricas:**  Cada vez que se elimine o restrinja contenido, la plataforma debe informar el motivo y la regla aplicada. Los informes de transparencia deberían incluir, además, la precisión y la tasa de error de las herramientas automáticas.
+
+
+### **Soluciones a los problemas sociales**
+
+**Reglas claras y sanciones graduales:** Las normas de la comunidad deben redactarse en lenguaje sencillo y con ejemplos. Es mejor aplicar advertencias antes que sancionar de manera inmediata. Ademas, que las sanciones sean proporcionales a la infraccion y que sean reversibles en caso de que sea erronea. Así el usuario sabe qué esperar y se reduce la autocensura.
+
+**Apelacion con revision humana**: Todo usuario debe poder impugnar una sanción y recibir una segunda revisión hecha por una persona, en un plazo razonable. La notificación debe indicar cómo se puede impugnar la decisión.
 ---
 
 ## 4. Impacto a largo plazo
